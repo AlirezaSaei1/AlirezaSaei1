@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hey, I'm Alireza Saei, studying computer engineering at the University of Isfahan.<br>🌱 I’m currently learning AI, ML, etc.<br>⚡ I love video games!
+🔭 Hey, I'm Alireza Saei, studying Computer Engineering at University of Isfahan.<br>🌱 I’m currently learning AI, ML, etc.<br>⚡ I love video games and playing Piano!
 
 
 
