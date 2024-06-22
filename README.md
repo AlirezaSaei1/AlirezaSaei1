@@ -40,4 +40,8 @@ I love **video games** and enjoy playing the **piano**!
 
 <h3 align="center">Thank you for visiting my profile!</h3>
 
-[![](https://visitcount.itsvg.in/api?id=AlirezaSaei1&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AlirezaSaei1&icon=0&color=0" alt="Visit Count" />
+  </a>
+</p>
