@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
 I'm passionate about **AI, ML, NLP, and LLMs.**.  
 I love **video games** and enjoy playing the **piano**!
@@ -8,7 +8,7 @@ I love **video games** and enjoy playing the **piano**!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-saei)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlirezaSaei)
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ---
 
@@ -35,9 +35,7 @@ I love **video games** and enjoy playing the **piano**!
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaei1&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaei1&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Thank you for visiting my profile!</h3>
+<h3 align="center">Thank you for visiting my profile!</h3>
