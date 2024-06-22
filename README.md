@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Alireza Dastmalchi Saei, a Final-Year Computer Engineering Student at University of Isfahan</h1>
-<h3 align="center">J'm passionate about AI, ML, NLP, and LLMs!</h3>
+Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
+I'm passionate about **AI, ML, NLP, and LLMs.**.  
 I love **video games** and enjoy playing the **piano**!
 
 ## 🌐 Socials:
@@ -9,10 +9,8 @@ I love **video games** and enjoy playing the **piano**!
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlirezaSaei)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezasaei1&show_icons=true&locale=en&layout=compact" alt="alirezasaei1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezasaei1&show_icons=true&locale=en" alt="alirezasaei1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezasaei1&" alt="alirezasaei1" /></p>
+![](https://komarev.com/ghpvc/?username=AlirezaSaei1&color=blue)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaei1&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Thank you for visiting my profile!
