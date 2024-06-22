@@ -1,6 +1,6 @@
 ## 💫 About Me:
 Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
-I'm passionate about **AI, ML, NLP, and LLMs.**.  
+I'm passionate about **AI, ML, NLP, and LLMs**.  
 I love **video games** and enjoy playing the **piano**!
 
 ## 🌐 Socials:
@@ -35,7 +35,8 @@ I love **video games** and enjoy playing the **piano**!
 </p>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlirezaSaei1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaei1&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center">Thank you for visiting my profile!</h3>
+<h3 align="center">Thank you for visiting my profile!</h3> [![](https://visitcount.itsvg.in/api?id=AlirezaSaei1&icon=0&color=0)](https://visitcount.itsvg.in)
