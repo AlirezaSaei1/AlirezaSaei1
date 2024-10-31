@@ -38,7 +38,6 @@ I love **video games** and enjoy playing **piano**!
 </p>
 
 # 📊 GitHub Stats:
-<!-->![](https://github-readme-streak-stats.herokuapp.com/?user=AlirezaSaei1&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="center">Thank you for visiting my profile!</h3>
