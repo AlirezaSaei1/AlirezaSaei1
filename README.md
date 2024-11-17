@@ -10,10 +10,11 @@ I'm passionate about **AI, ML, NLP, and LLMs**.
 I love **video games** and enjoy playing **piano**!
 
 ## 🌐 Socials:
+<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saei.alireza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-saei)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlirezaSaei)
-
+</p>
 <h2 align="left">Languages and Tools:</h2>
 
 ---
@@ -43,8 +44,9 @@ I love **video games** and enjoy playing **piano**!
 </p>
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
 <h3 align="center">Thank you for visiting my profile!</h3>
 
 <p align="center">
