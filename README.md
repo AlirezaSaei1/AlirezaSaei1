@@ -1,3 +1,9 @@
+<h1 align="center">
+  Hello world !!! 
+  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/> 
+</h1>
+
+
 ## 💫 About Me:
 Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
 I'm passionate about **AI, ML, NLP, and LLMs**.  
@@ -12,7 +18,7 @@ I love **video games** and enjoy playing **piano**!
 
 ---
 
-<p align="left">
+<p align="center">
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
