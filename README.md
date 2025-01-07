@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
-I'm passionate about **AI, ML, NLP, and LLMs**.  
+I'm passionate about **AI, ML, NLP, Computer Vision, and LLMs**.  
 I love **video games** and enjoy playing **piano**!
 
 ## 🌐 Socials:
