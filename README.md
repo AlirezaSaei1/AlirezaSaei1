@@ -43,15 +43,19 @@ I love **video games** and enjoy playing **piano**!
 </p>
 
 # 📊 GitHub Stats:
-<h1 align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=AlirezaSaei1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlirezaSaei1&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats) 
+## Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei188&hide=html&card_width=465)
 
-</h1>
+---
+
+## Contributions
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaSaei1&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
+
+---
 
 <h3 align="center">Thank you for visiting my profile!</h3>
 
