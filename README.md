@@ -45,12 +45,6 @@ I love **video games** and enjoy playing **piano**!
 # 📊 GitHub Stats:
 ---
 
-## Languages
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaSaei188&hide=html&card_width=465)
-
----
-
 ## Contributions
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaSaei1&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
