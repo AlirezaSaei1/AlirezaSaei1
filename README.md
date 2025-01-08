@@ -43,11 +43,16 @@ I love **video games** and enjoy playing **piano**!
 </p>
 
 # 📊 GitHub Stats:
----
 
-## Contributions
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=AlirezaSaei1&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AlirezaSaei1&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaSaei1&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=AlirezaSaei1&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=AlirezaSaei1&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 ---
 
