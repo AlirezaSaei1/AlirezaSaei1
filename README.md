@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-Hi, I'm **Alireza Saei**, currently studying **Computer Engineering** at the University of Isfahan.  
+Hi, I'm **Alireza Dastmalchi Saei**, currently studying **Computer Engineering** at Bilkent University.  
 I'm passionate about **AI, ML, NLP, Computer Vision, and LLMs**.  
 I love **video games** and enjoy playing **piano**!
 
